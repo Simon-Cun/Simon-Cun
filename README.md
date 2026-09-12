@@ -7,7 +7,7 @@ Outside of school I am really into working out, reading, and bouldering.
 - Undergraduate Research under the program UR2PHD
 - Full-Stack projects like UCRTimesheet Automation Tool
 - Coursework on Operating Systems/Networks/Databases/Computer Security
-- 
+  
 # Technical Skills
 Languages: Java · Python · TypeScript/JavaScript · C/C++/C# · HTML/CSS
 
