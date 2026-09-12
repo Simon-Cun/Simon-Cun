@@ -17,7 +17,3 @@ Outside of school I am really into working out, reading, and bouldering.
 **Databases & Cloud:** SQL · MySQL · NoSQL · PostgreSQL · MongoDB · AWS · Redis
 
 **Developer Tools:** Git · GitHub · GitHub Actions (CI/CD) · GoogleTest · Docker/Containers · Linux
-
-### Reach out
-simoncun.dev@gmail.com
-[LinkedIn](https://linkedin.com/in/simon-cun)
