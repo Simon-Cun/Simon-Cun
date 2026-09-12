@@ -15,4 +15,4 @@ Frameworks: React · Node.js · Next.js · React Native · Expo · TailwindCSS/N
 
 Databases & Cloud: SQL · MySQL · NoSQL · PostgreSQL · MongoDB · AWS · Redis
 
-Developer Tools: Git · GitHub · GitHub Actions (CI/CD) · GoogleTest · Docker/Containers · Linux
+Developer Tools: Git · GitHub · GitHub Actions (CI/CD) · Jest · GoogleTest · Docker/Containers · Linux
