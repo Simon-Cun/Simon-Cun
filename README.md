@@ -1,5 +1,6 @@
 # Hello! I'm Simon
 I'm a Computer Science student at UC Riverside, graduating in 2028.
+
 Outside of school I am really into working out, reading, and bouldering.
 
 # Currently working on
