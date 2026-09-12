@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hello! I'm Simon
 
-<!--
-**Simon-Cun/Simon-Cun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UC Riverside, graduating in 2028.
 
-Here are some ideas to get you started:
+Outside of school I am really into working out, reading, and bouldering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on
+- Undergraduate Research under the program UR2PHD
+- Full-Stack projects like UCRTimesheet Automation Tool
+- Coursework on Operating Systems/Networks/Databases/Computer Security
+### Technical Skills
+
+**Languages:** Java · Python · TypeScript/JavaScript · C/C++/C# · HTML/CSS
+
+**Frameworks:** React · Node.js · Next.js · React Native · Expo · TailwindCSS/NativeWindCSS
+
+**Databases & Cloud:** SQL · MySQL · NoSQL · PostgreSQL · MongoDB · AWS · Redis
+
+**Developer Tools:** Git · GitHub · GitHub Actions (CI/CD) · GoogleTest · Docker/Containers · Linux
+
+### Reach out
+simoncun.dev@gmail.com
+[LinkedIn](https://linkedin.com/in/simon-cun)
